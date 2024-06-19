@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCool.HealthRiskAnalytics", "CodeCool.HealthRiskAnalytics\CodeCool.HealthRiskAnalytics.csproj", "{E346CCB9-A670-4F64-B257-396D555C3101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCool.HealthRiskAnalyticsTest", "CodeCool.HealthRiskAnalyticsTest\CodeCool.HealthRiskAnalyticsTest.csproj", "{BBEEB86D-9777-43E6-B815-55F92AAF3196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E346CCB9-A670-4F64-B257-396D555C3101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E346CCB9-A670-4F64-B257-396D555C3101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E346CCB9-A670-4F64-B257-396D555C3101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E346CCB9-A670-4F64-B257-396D555C3101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEEB86D-9777-43E6-B815-55F92AAF3196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEEB86D-9777-43E6-B815-55F92AAF3196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEEB86D-9777-43E6-B815-55F92AAF3196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEEB86D-9777-43E6-B815-55F92AAF3196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
